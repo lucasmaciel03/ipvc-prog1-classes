@@ -1,0 +1,3 @@
+/Users/lucas.maciel/Documents/c_language/ipvc-prog1-classes/cmake-build-debug/CMakeFiles/ipvc_prog1_classes.dir
+/Users/lucas.maciel/Documents/c_language/ipvc-prog1-classes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lucas.maciel/Documents/c_language/ipvc-prog1-classes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
