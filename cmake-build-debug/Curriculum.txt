@@ -1,0 +1,8 @@
+Software Engineering - IPVC
+Lucas Maciel Andrade - 27712
+
+Disciplina: Arquitetura e Sistema de Computadores         Avaliação: 12
+Disciplina: Algoritmos e Estruturas de Dados              Avaliação: 15
+Disciplina: Programação II                              Avaliação: 10
+Disciplina: Base de Dados                                 Avaliação: 16
+Disciplina: Redes de Computadores                         Avaliação: 16
