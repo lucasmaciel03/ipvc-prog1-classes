@@ -11,7 +11,6 @@
 #define NUM_SUBJECTS 5 // Number of subjects
 #define MAX_SUBJECT_NAME_LENGTH 50 // Maximum length of subject names
 #define FILE_NAME "Curriculum.txt" // File name
-// The file should be created in the same directory as the source code
 
 
 int main() {
