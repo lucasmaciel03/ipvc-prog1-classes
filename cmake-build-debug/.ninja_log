@@ -1,8 +1,7 @@
 # ninja log v5
-216	265	1709047595214895886	ipvc_prog1_classes	91c851f6bce43e1f
-0	215	1709047616872775519	CMakeFiles/ipvc_prog1_classes.dir/1._text_files/ex1.c.o	5097639affb66143
-0	217	1709047552519381777	CMakeFiles/ipvc_prog1_classes.dir/main.c.o	bf90cdd6bbcaeeca
-0	69	1709047622660917215	build.ninja	d0c15d7a76caddbf
-0	49	1709047622715793506	ipvc_prog1_classes	8b2efedabbc97116
-1	218	1709047812740183762	CMakeFiles/ipvc_prog1_classes.dir/1._text_files/ex1.c.o	5097639affb66143
-218	267	1709047812788470823	ipvc_prog1_classes	8b2efedabbc97116
+0	58	1709300848764381356	CMakeFiles/ipvc_prog1_classes.dir/1._text_files/ex2.c.o	22c54fc3ab4adc39
+0	69	1709301037997943936	build.ninja	d0c15d7a76caddbf
+59	130	1709300848836728681	ipvc_prog1_classes	e3ce4dedae7d9027
+1	67	1709301037997943936	build.ninja	d0c15d7a76caddbf
+0	73	1709301038080934790	CMakeFiles/ipvc_prog1_classes.dir/1._text_files/ex3.c.o	567a3ef339857fb4
+73	136	1709301038144536848	ipvc_prog1_classes	2f4e316d9bcc366
