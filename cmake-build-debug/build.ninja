@@ -49,8 +49,8 @@ cmake_ninja_workdir = /Users/lucas.maciel/Documents/c_language/ipvc-prog1-classe
 
 build cmake_object_order_depends_target_ipvc_prog1_classes: phony || CMakeFiles/ipvc_prog1_classes.dir
 
-build CMakeFiles/ipvc_prog1_classes.dir/1._text_files/ex3.c.o: C_COMPILER__ipvc_prog1_classes_unscanned_Debug /Users/lucas.maciel/Documents/c_language/ipvc-prog1-classes/1.$ text_files/ex3.c || cmake_object_order_depends_target_ipvc_prog1_classes
-  DEP_FILE = CMakeFiles/ipvc_prog1_classes.dir/1._text_files/ex3.c.o.d
+build CMakeFiles/ipvc_prog1_classes.dir/1._text_files/ex5.c.o: C_COMPILER__ipvc_prog1_classes_unscanned_Debug /Users/lucas.maciel/Documents/c_language/ipvc-prog1-classes/1.$ text_files/ex5.c || cmake_object_order_depends_target_ipvc_prog1_classes
+  DEP_FILE = CMakeFiles/ipvc_prog1_classes.dir/1._text_files/ex5.c.o.d
   FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/ipvc_prog1_classes.dir
   OBJECT_FILE_DIR = CMakeFiles/ipvc_prog1_classes.dir/1._text_files
@@ -63,7 +63,7 @@ build CMakeFiles/ipvc_prog1_classes.dir/1._text_files/ex3.c.o: C_COMPILER__ipvc_
 #############################################
 # Link the executable ipvc_prog1_classes
 
-build ipvc_prog1_classes: C_EXECUTABLE_LINKER__ipvc_prog1_classes_Debug CMakeFiles/ipvc_prog1_classes.dir/1._text_files/ex3.c.o
+build ipvc_prog1_classes: C_EXECUTABLE_LINKER__ipvc_prog1_classes_Debug CMakeFiles/ipvc_prog1_classes.dir/1._text_files/ex5.c.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/ipvc_prog1_classes.dir
   POST_BUILD = :
