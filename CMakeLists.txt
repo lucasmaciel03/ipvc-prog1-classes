@@ -18,5 +18,6 @@ add_executable(ipvc_prog1_classes
 #        "2. binary_files/fseek.c"
 #        "2. binary_files/ftell.c"
 #        "2. binary_files/example1.c"
-        "2. binary_files/example2.c"
+#        "2. binary_files/example2.c"
+        "2. binary_files/ex1.c"
 )
