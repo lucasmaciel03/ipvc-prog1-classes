@@ -19,5 +19,9 @@ add_executable(ipvc_prog1_classes
 #        "2. binary_files/ftell.c"
 #        "2. binary_files/example1.c"
 #        "2. binary_files/example2.c"
-        "2. binary_files/ex1.c"
+#        "2. binary_files/ex1.c"
+#        "3. recursion/intro.c"
+#        "3. recursion/example2.c"
+#        "3. recursion/fibonacci_function.c"
+        "3. recursion/ex1.c"
 )
