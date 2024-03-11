@@ -23,5 +23,11 @@ add_executable(ipvc_prog1_classes
 #        "3. recursion/intro.c"
 #        "3. recursion/example2.c"
 #        "3. recursion/fibonacci_function.c"
-        "3. recursion/ex1.c"
+#        "3. recursion/ex1.c"
+#        "3. recursion/ex2.c"
+#        "3. recursion/ex3.c"
+#        "3. recursion/ex4.c"
+#        "3. recursion/ex5.c"
+#        "3. recursion/ex6.c"
+        "3. recursion/ex7.c"
 )
