@@ -29,5 +29,9 @@ add_executable(ipvc_prog1_classes
 #        "3. recursion/ex4.c"
 #        "3. recursion/ex5.c"
 #        "3. recursion/ex6.c"
-        "3. recursion/ex7.c"
+#        "3. recursion/ex7.c"
+#        "4. dynamic_memory_allocation/intro.c"
+#        "4. dynamic_memory_allocation/calloc.c"
+#        "4. dynamic_memory_allocation/calloc_example2.c"
+        "4. dynamic_memory_allocation/example1.c"
 )
