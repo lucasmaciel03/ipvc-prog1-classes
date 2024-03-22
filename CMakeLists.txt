@@ -33,5 +33,10 @@ add_executable(ipvc_prog1_classes
 #        "4. dynamic_memory_allocation/intro.c"
 #        "4. dynamic_memory_allocation/calloc.c"
 #        "4. dynamic_memory_allocation/calloc_example2.c"
-        "4. dynamic_memory_allocation/example1.c"
+#        "4. dynamic_memory_allocation/example1.c"
+#        "4. dynamic_memory_allocation/ex1.c"
+#        "4. dynamic_memory_allocation/ex2.c"
+#        "4. dynamic_memory_allocation/ex3.c"
+#        "4. dynamic_memory_allocation/ex4.c"
+        "4. dynamic_memory_allocation/ex5.c"
 )
