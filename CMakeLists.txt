@@ -40,7 +40,8 @@ add_executable(ipvc_prog1_classes
 #        "4. dynamic_memory_allocation/ex4.c"
 #        "4. dynamic_memory_allocation/ex5.c"
 #        "5. sorting_algorithms/bubbleSort.c"
-        "5. sorting_algorithms/selectionSort.c"
+#        "5. sorting_algorithms/selectionSort.c"
 #        "5. sorting_algorithms/bubbleSort_ex1.c"
 #        "5. sorting_algorithms/bubbleSort_ex2.c"
+        "5. sorting_algorithms/insertionSort.c"
 )
