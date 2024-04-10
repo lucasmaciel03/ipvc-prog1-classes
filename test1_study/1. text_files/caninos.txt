@@ -1,0 +1,3 @@
+Joca; Pastor; 1
+Alemão; 20; 20
+Jota; Pinscher; 20

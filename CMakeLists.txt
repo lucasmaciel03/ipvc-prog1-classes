@@ -44,5 +44,7 @@ add_executable(ipvc_prog1_classes
 #        "5. sorting_algorithms/bubbleSort_ex1.c"
 #        "5. sorting_algorithms/bubbleSort_ex2.c"
 #        "5. sorting_algorithms/insertionSort.c"
-        "test1_study/ex1.c"
+#        "test1_study/1. text_files/ex1.c"
+#        "test1_study/1. text_files/ex2.c"
+        "test1_study/1. text_files/ex3.c"
 )
